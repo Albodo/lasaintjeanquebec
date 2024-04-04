@@ -14,6 +14,7 @@ body{
 .principale{
     display: flex;
     justify-content: center;
+    min-width: 400px;
 }
 
 /* Mise en forme de l'en-tête */
@@ -200,6 +201,7 @@ h3{
     border-radius: 5%; 
     margin: 1rem;
     margin-top: 1rem;
+    margin-bottom: 3rem;
     padding: 0.5rem;
     min-width: 50%;
     font-size: 1rem;
