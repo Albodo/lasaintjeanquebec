@@ -77,7 +77,6 @@ h3{
 
 /* Mise en forme de la section Description */
 .activites{
-    margin: 2rem 2rem 2rem 2rem;
     text-align: center;
 }
 
@@ -122,8 +121,8 @@ h3{
     background-color: #FB8147 ;
     border-radius: 5%;
     border-style: solid;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
     text-align: center;
     width: 80%;
     border-color: #040136;
