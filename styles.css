@@ -268,3 +268,32 @@ h3{
         max-height: 4rem;
   }
 }
+
+@media screen and (max-width: 425px) {
+
+    h1, h2, h3 {
+        text-align: center;
+    }
+
+    h1 img{
+        max-height: 3rem;
+  }
+
+  .principale{
+    display: flex;
+    justify-content: center;
+    min-width: 300px;
+}
+
+    .tetesdaffiche p{
+        color:#bbff4d;
+    }
+
+    .activites p{
+        color:#bbff4d;
+    }
+
+    .gallerie img{
+        max-width: 250px;
+    }
+}
