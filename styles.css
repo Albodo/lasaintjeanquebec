@@ -85,6 +85,12 @@ h3{
     font-size: 1.5rem;
 }
 
+.billetterie{
+    max-width: 80%;
+    width: 800px;
+    margin-bottom: 2rem;
+}
+
 .description{
     background-color: #01b0d1 ;
     border-radius: 5%;
