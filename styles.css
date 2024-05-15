@@ -265,6 +265,17 @@ h3{
     cursor: pointer;
   }
 
+  @media screen and (max-width: 780px) {
+    .tetesdaffiche p{
+        color:#bbff4d;
+    }
+
+    .activites p{
+        color:#bbff4d;
+    }
+
+}
+
   @media screen and (max-width: 600px) {
     h1, h3 {
         text-align: center;
@@ -290,14 +301,6 @@ h3{
     justify-content: center;
     min-width: 300px;
 }
-
-    .tetesdaffiche p{
-        color:#bbff4d;
-    }
-
-    .activites p{
-        color:#bbff4d;
-    }
 
     .gallerie img{
         max-width: 250px;
